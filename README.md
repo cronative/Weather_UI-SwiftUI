@@ -19,7 +19,6 @@ A beautiful and minimalistic Weather UI built using SwiftUI. This project demons
 |-------------|-----------------|
 | ![Home Screen](Screenshots/1.png) | ![Weather Details](Screenshots/2.png) | ![Other Screen](Screenshots/3.png) | ![Other Screen](Screenshots/4.png) |
 
-> **Note:** Replace the placeholders above with the actual paths to your screenshots.
 
 ## Installation
 
